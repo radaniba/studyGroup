@@ -1,7 +1,7 @@
 ---
 title: Data Open Space
 text: 
-location: 
+location: Chicago
 link: https://github.com/mozillascience/studyGroup#2015-05-16
 date: 2015-05-16
 
