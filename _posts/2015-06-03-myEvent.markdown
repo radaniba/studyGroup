@@ -1,18 +1,16 @@
 ---
 title: Data Open Space
 text: Python for Data Science
+        Python for data science level-beginner/intermediate
+          -Overview of data structures and indexing
+          -Iteration and looping over data structures
+          -String formatting and processing
+        Getting started with git level-beginner/intermediate
+          -How to contribute code
+          -Version control
+          -Command line basics
+        Predictive data analysis in teams level-beginner/intermediate/advanced
 location: Panera,River Forest,IL 10:30am
-text: Python for Data Science - Data Structures, Iteration, Git, Version Control Predictive Analysis in Teams
-Python for data science level-beginner/intermediate
--Overview of data structures and indexing
--Iteration and looping over data structures
--String formatting and processing
-Getting started with git level-beginner/intermediate
--How to contribute code
--Version control
--Command line basics
-Predictive data analysis in teams level-beginner/intermediate/advanced
-location: Panera, River Forest,IL 10:30am
 link: https://github.com/dataopenspace/studyGroup/issues/6
 date: 2015-06-03
 ---
