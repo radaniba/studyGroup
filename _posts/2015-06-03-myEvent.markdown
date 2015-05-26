@@ -1,9 +1,9 @@
 ---
 title: Data Open Space
 text: Python for Data Science
-location: Panera,River Forest,IL 10:30am
+location: Panera, River Forest,IL 10:30am
 link: https://github.com/dataopenspace/studyGroup/issues/6
-date: 2015-06-03
+date: 2015-06-13
 ---
 
 ###### Python for data science level-beginner/intermediate
