@@ -1,8 +1,0 @@
----
-title: Introduction to tidyr/reshape2 package in R by Remi Daigle
-text: Learn to use the tidyr and reshape2 packages in R to tidy up your data to make it easier to analyze and visualize!
-location:  SSB 6178
-link: https://github.com/ttimbers/studyGroup/issues/1
-date: 2015-07-14
-
----
