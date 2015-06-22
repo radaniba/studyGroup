@@ -1,7 +1,0 @@
----
-title: Introduction to Regular Expressions by Bruno Grande
-text: We often manipulate text and a bit of pattern matching can go a long way. Once equipped with the flexibility and power of regular expressions, you'll wonder how you ever got around without them.
-location: Simon Fraser University, Burnaby Campus, SSB 6178
-link: https://github.com/ttimbers/studyGroup/issues/4
-date: 2015-07-28
----
