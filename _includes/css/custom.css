@@ -1,0 +1,29 @@
+/* Improve general readability */
+
+section h3.section-subheading {
+    line-height: 1.75;
+    margin-bottom: 50px;
+}
+
+.intro-lead-in {
+      text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.8);
+}
+
+.intro-heading {
+      text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+/* Improve formatting of events */
+
+ul.events li {
+    margin-bottom: 1.8em;
+}
+
+a.eventTitle {
+  margin-bottom: 0.3em;
+  display: inline-block;
+}
+
+.eventSub {
+    font-size: 1.2em;
+}

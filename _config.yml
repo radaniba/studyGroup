@@ -5,14 +5,14 @@
 user: ttimbers
 
 #Step 2: give your study group a name and a short description:
-title: SFU Scientific Programming Study Group
-description: "A scientific computing study group whose home-base is at Simon Fraser 
+title: Scientific Programming Study Group at SFU
+description: "A scientific computing study group whose home base is at Simon Fraser
 University (SFU) in Burnaby, BC, Canada. Our group meets on a weekly basis for peer-
 facilitated study-sessions on topics under the broad umbrella of using computers to do
 scientific research more effectively and efficiently. This includes using Python for DNA
-sequence analysis, plotting and statistical analysis of environmental data in R, 
-automating repetitive tasks with the shell, general best practices in coding, and to using 
-tools such as Git and Github to collaborate effectively with others. All are welcome to 
+sequence analysis, plotting and statistical analysis of environmental data in R,
+automating repetitive tasks with the shell, general best practices in coding, and to using
+tools such as Git and Github to collaborate effectively with others. All are welcome to
 this study group, regardless of affiliation or training level."
 
 #Step 3: press the green 'Commit Changes' button at the bottom of this page.
@@ -27,8 +27,18 @@ this study group, regardless of affiliation or training level."
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
-headlineSmall: "Welcome To the SFU  Programming Study Group!"
+headlineSmall: "Welcome To the Scientific Programming Study Group at SFU!"
 headlineMain: "Let's Work Together"
+
+# Setup Google Calendar
+# Create Google Acount and add events to a new calendar.
+# Here are example URLs:
+# calendar_embed_url: https://www.google.com/calendar/embed?src=email@gmail.com
+# calendar_ical_url: https://www.google.com/calendar/ical/email@gmail.com/public/basic.ics
+
+calendar_on: Yes
+calendar_embed_url: "https://www.google.com/calendar/embed?src=sciprogrammingstudygroupsfu@gmail.com"
+calendar_ical_url: "https://www.google.com/calendar/ical/sciprogrammingstudygroupsfu@gmail.com/public/basic.ics"
 
 
 #========================================
