@@ -40,6 +40,10 @@ calendar_on: Yes
 calendar_embed_url: "https://www.google.com/calendar/embed?src=sciprogrammingstudygroupsfu@gmail.com"
 calendar_ical_url: "https://www.google.com/calendar/ical/sciprogrammingstudygroupsfu@gmail.com/public/basic.ics"
 
+# Setup survey
+# Set survey_url to No (no quotes) if disabled
+survey_url: "http://goo.gl/forms/OXNe5kB8ao"
+
 
 #========================================
 # No touching anything below this line :)
