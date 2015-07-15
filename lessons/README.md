@@ -21,6 +21,12 @@ specific. Of course, you can use your own data for demonstration purposes, but t
 the problems you are trying to solve with your programming tool to those of general 
 interest. 
 
+## Start of with the motivation for what you are teaching
+
+What problem can the tool you are teaching solve? Why is that tool ideal for solving that 
+problem? Spending 2-5 minutes on the motivation for learning the tool and setting up the 
+problem is essential to engage your learners.
+
 ## No lecture slides, just live demos
 
 It's much more engaging if you demonstrate the code you're presenting as opposed to just 
