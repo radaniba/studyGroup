@@ -9,6 +9,9 @@ group session.
 It's hard to time a hands-on lesson because it depends on your audience and their 
 preferred pace. Your best bet is to plan to cover the basics within an hour at a slow 
 pace, but have some extra optional material at the end if things go faster than expected. 
+Importantly, if you do not get through everything, it's okay. It's better that you leave 
+stuff out than rush through the material. Your notes will (hopefully) be published, so
+people can learn in their own time afterwards. 
 
 ## Ensure the topic is of general interest
 
