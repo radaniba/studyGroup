@@ -4,7 +4,7 @@ We want your workshops to be the best they can be. We believe in a dynamic teach
 that engages the audience. To achieve this here are a few guidelines for leading a study 
 group session. 
 
-## * Design the lesson for a one-hour time slot
+## 1. Design the lesson for a one-hour time slot
 
 It's hard to time a hands-on lesson because it depends on your audience and their 
 preferred pace. Your best bet is to plan to cover the basics within an hour at a slow 
@@ -13,7 +13,7 @@ Importantly, if you do not get through everything, it's okay. It's better that y
 stuff out than rush through the material. Your notes will (hopefully) be published, so
 people can learn in their own time afterwards. 
 
-## Ensure the topic is of general interest
+## 2. Ensure the topic is of general interest
 
 This study group is for scientific programmers. Hence, the audience members will come from 
 diverse backgrounds. Your lesson should take this into account and not be too domain-
@@ -21,27 +21,27 @@ specific. Of course, you can use your own data for demonstration purposes, but t
 the problems you are trying to solve with your programming tool to those of general 
 interest. 
 
-## Start of with the motivation for what you are teaching
+## 3. Start of with the motivation for what you are teaching
 
 What problem can the tool you are teaching solve? Why is that tool ideal for solving that 
 problem? Spending 2-5 minutes on the motivation for learning the tool and setting up the 
 problem is essential to engage your learners.
 
-## No lecture slides, just live demos
+## 4. No lecture slides, just live demos
 
 It's much more engaging if you demonstrate the code you're presenting as opposed to just 
 lecturing. It ensures that your audience can follow you as you go along. Also, please send 
 the organizers the data files your audience will need to follow along with you ahead of 
 the session you are leading.
 
-## Include some challenge questions
+## 5. Include some challenge questions
 
 One easy way to test if your audience is understanding what you're demonstrating is to 
 provide them with challenge questions. It allows you to make sure everyone is on the same 
 page and help out those who are having trouble. And who doesn't enjoy the rush of dopamine 
 when you get something to work?
 
-## Use the Sticky Note Method™
+## 6. Use the Sticky Note Method™
 
 We're not gonna lie about this: this idea is straight-up taken from Software Carpentry's 
 book, because it works! The organizers will be providing each audience member with two 
@@ -49,7 +49,7 @@ differently coloured sticky notes. One will signify "I'm good!", while the other
 signal "Help!" During challenge questions, this will allow those who raised the "I'm good" 
 flag to help each other out. Collaboration is key!
 
-## Share the love! (And the notes)
+## 7. Share the love! (And the notes)
 
 As we've said, we're all about collaboration. This includes sharing your lesson notes. 
 Not only does this permit study group members to refer back to the lesson, but it also 
