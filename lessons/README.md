@@ -4,7 +4,7 @@ We want your workshops to be the best they can be. We believe in a dynamic teach
 that engages the audience. To achieve this here are a few guidelines for leading a study 
 group session. 
 
-## Design the lesson for a one-hour time slot
+## * Design the lesson for a one-hour time slot
 
 It's hard to time a hands-on lesson because it depends on your audience and their 
 preferred pace. Your best bet is to plan to cover the basics within an hour at a slow 
